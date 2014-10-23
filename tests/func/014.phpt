@@ -2,7 +2,6 @@
 #phptestfest PHPSP on Google - Sao Paulo - Brazil - 2014-06-05
 # <marcosptf@yahoo.com.br>
 --FILE--
-<?php error_reporting(0);
 <?php
 echo addcslashes("foo[ ]","A..z");
 ?>
